@@ -1,0 +1,33 @@
+sources
+
+R
+
+How to create one grid of histograms using facet_wrap
+https://www.r-bloggers.com/quick-plot-of-all-variables/
+
+How to resize the font size of the plot titles:
+https://stackoverflow.com/questions/35458230/how-to-increase-the-font-size-of-ggtitle-in-ggplot2?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Use of within function
+http://www.dummies.com/programming/r/how-to-add-calculated-fields-to-data-in-r/
+
+Reorder columns by name
+http://www.sthda.com/english/wiki/reordering-data-frame-columns-in-r#reorder-column-by-name
+
+Chemical composition of wine
+
+Acidity of wine
+http://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity
+https://www.wineperspective.com/wine-acidity/
+https://winefolly.com/tutorial/weird-wine-flavors-and-the-science-behind-them/
+
+Relation alcohol percentage and quality
+http://www.decanter.com/features/alcohol-levels-the-balancing-act-246426/
+https://en.wikipedia.org/wiki/Vinho_Verde
+
+Relation alcohol percentage and density
+https://bartenderly.com/tips-tricks/alcohol-density-chart/
+
+Sulfur dioxide in wine
+https://winobrothers.com/2011/10/11/sulfur-dioxide-so2-in-wine/
+
